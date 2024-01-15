@@ -1,3 +1,23 @@
+
+.container{
+    position: relative;
+}
+header{
+    background-color: #4ea0ff;
+    margin: 0;
+    height: 175px;
+    display: flex;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+}
+#pattern{
+
+}
+#logo{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
 /* 
 header{
     box-sizing: border-box;
@@ -34,9 +54,7 @@ footer{
 }
 
 /* footer */
-.container{
-    position: relative;
-}
+
 .loremsopraimmagini{
         position: absolute;
         top: 0;
