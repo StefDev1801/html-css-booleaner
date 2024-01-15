@@ -10,24 +10,14 @@ header{
     background-image: url(../img/pattern.png);
     background-repeat: repeat-x;
 }
-#pattern{
-
+#titoloprincipale{
+    font-size: 2em;
 }
 #logo{
     position: absolute;
     bottom: 0;
     left: 0;
 }
-/* 
-header{
-    box-sizing: border-box;
-    margin: 0;
-    background-color: #4ea0ff;
-    height: 150px;
-}
-#pattern{
-    height: 150px;
-} */
 #thebooleaner{
     height: 75px;
 }
