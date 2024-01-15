@@ -1,0 +1,47 @@
+*{
+    
+}
+header{
+    box-sizing: border-box;
+    margin: 0;
+    background-color: #4ea0ff;
+    height: 150px;
+
+}
+#pattern{
+    height: 150px;
+}
+#thebooleaner{
+    height: 75px;
+}
+.graywriting{
+    color: #8c8c8c;
+}
+.bluewriting{
+    color: #4ea0ff;
+}
+#tablehead{
+    background-color: #20a9e5;
+}
+th{
+    color: white;
+}
+.lightblue{
+    background-color: #b1e5f2;
+}
+footer{
+    position: relative;
+}
+.highlighted{
+    background-color: yellow;
+}
+
+.immagini{
+    width: 311px;
+    height: 207;
+    position: relative;
+}
+.loremsopraimmagini{
+    position: absolute;
+    bottom: 100%;
+}
